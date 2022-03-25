@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Inspection.Domain
+build_property.ProjectDir = D:\Nick\C#\.NET Core\CQRS\Inspection.Web\Inspection.Domain\

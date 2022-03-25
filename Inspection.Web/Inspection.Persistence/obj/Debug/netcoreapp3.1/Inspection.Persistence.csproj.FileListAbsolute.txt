@@ -1,0 +1,16 @@
+D:\Nick\C#\.NET Core\CQRS\Inspection.Web\Inspection.Persistence\bin\Debug\netcoreapp3.1\Inspection.Persistence.deps.json
+D:\Nick\C#\.NET Core\CQRS\Inspection.Web\Inspection.Persistence\bin\Debug\netcoreapp3.1\Inspection.Persistence.runtimeconfig.json
+D:\Nick\C#\.NET Core\CQRS\Inspection.Web\Inspection.Persistence\bin\Debug\netcoreapp3.1\Inspection.Persistence.runtimeconfig.dev.json
+D:\Nick\C#\.NET Core\CQRS\Inspection.Web\Inspection.Persistence\bin\Debug\netcoreapp3.1\Inspection.Persistence.dll
+D:\Nick\C#\.NET Core\CQRS\Inspection.Web\Inspection.Persistence\bin\Debug\netcoreapp3.1\Inspection.Persistence.pdb
+D:\Nick\C#\.NET Core\CQRS\Inspection.Web\Inspection.Persistence\obj\Debug\netcoreapp3.1\Inspection.Persistence.csproj.AssemblyReference.cache
+D:\Nick\C#\.NET Core\CQRS\Inspection.Web\Inspection.Persistence\obj\Debug\netcoreapp3.1\Inspection.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nick\C#\.NET Core\CQRS\Inspection.Web\Inspection.Persistence\obj\Debug\netcoreapp3.1\Inspection.Persistence.AssemblyInfoInputs.cache
+D:\Nick\C#\.NET Core\CQRS\Inspection.Web\Inspection.Persistence\obj\Debug\netcoreapp3.1\Inspection.Persistence.AssemblyInfo.cs
+D:\Nick\C#\.NET Core\CQRS\Inspection.Web\Inspection.Persistence\obj\Debug\netcoreapp3.1\Inspection.Persistence.csproj.CoreCompileInputs.cache
+D:\Nick\C#\.NET Core\CQRS\Inspection.Web\Inspection.Persistence\obj\Debug\netcoreapp3.1\Inspection.Persistence.dll
+D:\Nick\C#\.NET Core\CQRS\Inspection.Web\Inspection.Persistence\obj\Debug\netcoreapp3.1\Inspection.Persistence.pdb
+D:\Nick\C#\.NET Core\CQRS\Inspection.Web\Inspection.Persistence\obj\Debug\netcoreapp3.1\Inspection.Persistence.genruntimeconfig.cache
+D:\Nick\C#\.NET Core\CQRS\Inspection.Web\Inspection.Persistence\bin\Debug\netcoreapp3.1\Inspection.Domain.dll
+D:\Nick\C#\.NET Core\CQRS\Inspection.Web\Inspection.Persistence\bin\Debug\netcoreapp3.1\Inspection.Domain.pdb
+D:\Nick\C#\.NET Core\CQRS\Inspection.Web\Inspection.Persistence\obj\Debug\netcoreapp3.1\Inspection.Persistence.csproj.CopyComplete

@@ -1,0 +1,10 @@
+D:\Nick\C#\.NET Core\CQRS\Inspection.Web\Inspection.Domain\bin\Debug\netcoreapp3.1\Inspection.Domain.deps.json
+D:\Nick\C#\.NET Core\CQRS\Inspection.Web\Inspection.Domain\bin\Debug\netcoreapp3.1\Inspection.Domain.dll
+D:\Nick\C#\.NET Core\CQRS\Inspection.Web\Inspection.Domain\bin\Debug\netcoreapp3.1\Inspection.Domain.pdb
+D:\Nick\C#\.NET Core\CQRS\Inspection.Web\Inspection.Domain\obj\Debug\netcoreapp3.1\Inspection.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nick\C#\.NET Core\CQRS\Inspection.Web\Inspection.Domain\obj\Debug\netcoreapp3.1\Inspection.Domain.AssemblyInfoInputs.cache
+D:\Nick\C#\.NET Core\CQRS\Inspection.Web\Inspection.Domain\obj\Debug\netcoreapp3.1\Inspection.Domain.AssemblyInfo.cs
+D:\Nick\C#\.NET Core\CQRS\Inspection.Web\Inspection.Domain\obj\Debug\netcoreapp3.1\Inspection.Domain.csproj.CoreCompileInputs.cache
+D:\Nick\C#\.NET Core\CQRS\Inspection.Web\Inspection.Domain\obj\Debug\netcoreapp3.1\Inspection.Domain.dll
+D:\Nick\C#\.NET Core\CQRS\Inspection.Web\Inspection.Domain\obj\Debug\netcoreapp3.1\Inspection.Domain.pdb
+D:\Nick\C#\.NET Core\CQRS\Inspection.Web\Inspection.Domain\obj\Debug\netcoreapp3.1\Inspection.Domain.csproj.AssemblyReference.cache
