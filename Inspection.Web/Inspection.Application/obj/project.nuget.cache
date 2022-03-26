@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+ZYxkx54Cbbjyy3BfufsXK1kAlmVlIigcikdIwFU/WQFyIl8ygSYyELTJbsc0jI0+Xyl/HxyXbZ9YsSEF6JR3A==",
+  "dgSpecHash": "dd8iHpaGgnrr2cUkaLJCf54jPiGLbZrpfmOdwA4T3gp3PatTae3EUFtZAO+z/53hv7DWl0gAi1t0ITbnOCr9Vg==",
   "success": true,
   "projectFilePath": "D:\\Nick\\C#\\.NET Core\\CQRS\\Inspection.Web\\Inspection.Application\\Inspection.Application.csproj",
   "expectedPackageFiles": [

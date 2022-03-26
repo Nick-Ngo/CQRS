@@ -14,7 +14,7 @@ namespace Inspection.Application.Categories
     {
         public class Command : IRequest
         {
-            public Activity Activity { get; set; }
+            public Category Category { get; set; }
         }
 
         public class Handler : IRequestHandler<Command>
@@ -29,8 +29,8 @@ namespace Inspection.Application.Categories
 
             public async Task<Unit> Handle(Command request, CancellationToken cancellationToken)
             {
-                var activity = await _context.Activities.FindAsync(request.Activity.Id);
-                _mapper.Map(request.Activity, activity);
+                var category = await _context.Categories.FindAsync(request.Category.Id);
+                _mapper.Map(request.Category, category);
                 await _context.SaveChangesAsync();
                 return Unit.Value;
             }

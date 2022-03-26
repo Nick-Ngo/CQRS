@@ -11,12 +11,12 @@ namespace Inspection.Application.Categories
 {
     public class Details
     {
-        public class Query : IRequest<Activity>
+        public class Query : IRequest<Category>
         {
             public Guid Id { get; set; }
         }
 
-        public class Handler : IRequestHandler<Query, Activity>
+        public class Handler : IRequestHandler<Query, Category>
         {
             private readonly DataContext _context;
             public Handler(DataContext context)
@@ -24,9 +24,9 @@ namespace Inspection.Application.Categories
                 _context = context;
             }
 
-            public async Task<Activity> Handle(Query request, CancellationToken cancellationToken)
+            public async Task<Category> Handle(Query request, CancellationToken cancellationToken)
             {
-                return await _context.Activities.FindAsync(request.Id);
+                return await _context.Categories.FindAsync(request.Id);
             }
         }
     }

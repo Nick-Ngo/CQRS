@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DMX8Zi6/2Xc1Z1mMz6zeL0rfcEaaxTWQ519Clug9TB54v2BsS+7v1pXRIeQnb1E1ygM3obzEROhBjvWrL0v7Gg==",
+  "dgSpecHash": "+j2YtAngg+1BaD7B9DdvLAWr0AvlnGJwRix3VNKhPI4mvuYBIPYb1r6i5vvePCCU0rDmrjr+mY4R8q33oFdFWA==",
   "success": true,
   "projectFilePath": "D:\\Nick\\C#\\.NET Core\\CQRS\\Inspection.Web\\Inspection.Persistence\\Inspection.Persistence.csproj",
   "expectedPackageFiles": [

@@ -12,9 +12,9 @@ namespace Inspection.Application.Categories
 {
     public class List
     {
-        public class Query : IRequest<List<Activity>> { }
+        public class Query : IRequest<List<Category>> { }
 
-        public class Handler : IRequestHandler<Query, List<Activity>>
+        public class Handler : IRequestHandler<Query, List<Category>>
         {
             private readonly DataContext _context;
             public Handler(DataContext context)
@@ -22,9 +22,9 @@ namespace Inspection.Application.Categories
                 _context = context;
             }
 
-            public async Task<List<Activity>> Handle(Query request, CancellationToken cancellationToken)
+            public async Task<List<Category>> Handle(Query request, CancellationToken cancellationToken)
             {
-                return await _context.Activities.ToListAsync();
+                return await _context.Categories.ToListAsync();
             }
         }
     }

@@ -25,8 +25,8 @@ namespace Inspection.Application.Categories
 
             public async Task<Unit> Handle(Command request, CancellationToken cancellationToken)
             {
-                var activity = await _context.Activities.FindAsync(request.Id);
-                _context.Remove(activity);
+                var category = await _context.Categories.FindAsync(request.Id);
+                _context.Remove(category);
                 await _context.SaveChangesAsync();
                 return Unit.Value;
             }

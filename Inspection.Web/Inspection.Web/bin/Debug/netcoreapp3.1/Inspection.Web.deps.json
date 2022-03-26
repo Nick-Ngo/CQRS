@@ -1552,6 +1552,9 @@
         }
       },
       "Inspection.Domain/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.15"
+        },
         "runtime": {
           "Inspection.Domain.dll": {}
         },

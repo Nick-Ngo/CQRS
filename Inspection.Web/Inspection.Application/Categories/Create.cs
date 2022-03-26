@@ -13,7 +13,7 @@ namespace Inspection.Application.Categories
     {
         public class Command : IRequest
         {
-            public Activity Activity { get; set; }
+            public Category Category { get; set; }
         }
 
         public class Handler : IRequestHandler<Command>
@@ -26,7 +26,8 @@ namespace Inspection.Application.Categories
 
             public async Task<Unit> Handle(Command request, CancellationToken cancellationToken)
             {
-                _context.Activities.Add(request.Activity);
+                request.Category.Id = Guid.NewGuid();
+                _context.Categories.Add(request.Category);
                 await _context.SaveChangesAsync();
                 return Unit.Value;
             }

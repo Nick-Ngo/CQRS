@@ -11,6 +11,7 @@ namespace Inspection.Application.Core
         public MappingProfiles()
         {
             CreateMap<Activity, Activity>();
+            CreateMap<Category, Category>();
         }
     }
 }
